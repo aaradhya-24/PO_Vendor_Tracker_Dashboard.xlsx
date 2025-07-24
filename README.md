@@ -1,4 +1,4 @@
-# PO_Vendor_Tracker_Dashboard.xlsx
+# PO_Vendor_Tracker_Dashboard
 
 This is an Excel-based MIS dashboard project built to simulate real-world **Purchase Order (PO)** tracking and **Vendor performance reporting** in a food operations context.
 
@@ -54,8 +54,7 @@ Click to download or view the file: https://github.com/aaradhya-24/PO_Vendor_Tra
 
 ## 👤 Author
 
-**Aaradhya Singh**  
-[LinkedIn](https://www.linkedin.com/in/aaradhyasingh24)  
+**Aaradhya Singh**   
 Email: aaradhyasinghh1@gmail.com
 
 ---
