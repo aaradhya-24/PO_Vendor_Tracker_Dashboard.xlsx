@@ -32,7 +32,7 @@ The project uses a structured dataset of 80+ POs, categorized by vendor, item, c
 
 ## 📸 Dashboard Snapshot
 
-![Dashboard Snapshot]()
+![Dashboard Snapshot](https://github.com/aaradhya-24/PO_Vendor_Tracker_Dashboard.xlsx/blob/main/PO_Vendor_Tracker_Dashboard%20Snapshot.png)
 
 > _Note: Replace the above with a screenshot of your dashboard named `dashboard-preview.png` in your repo._
 
